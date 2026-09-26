@@ -6,7 +6,7 @@ Computational Linguist (M.Sc. in Computational Linguistics & NLP), Quantitative 
 
 ### 🧠 Computational Linguistics & Persian LLM Research
 
-- 🗣️ **[persian-pragmatics-bench](https://github.com/abebr/persian-pragmatics-bench)**: Benchmark and extraction pipeline for evaluating pragmatic competence, indirect speech acts, sarcasm, and Ta'arof in Persian conversational AI.
+- 🗣️ **[persian-pragmatics-dataset](https://github.com/abebr/persian-pragmatics-dataset)** ([Hugging Face](https://huggingface.co/datasets/abebr/persian-pragmatics-dataset)): Persian conversational pragmatics, indirect speech acts, sarcasm, and Ta'arof dataset with 10k train and 1k test splits.
 - 📐 **[persian-llm-token-bench](https://github.com/abebr/persian-llm-token-bench)**: Empirical analysis of Persian LLM tokenization efficiency, fertility rate ($t/w$), byte-fallback penalties, and the "ZWNJ Tax" across leading LLMs.
 
 ---
