@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Abe (@abebr)
 
-Quantitative Trading System Developer, Algorithmic Engineer, AI Automation Specialist, and Educational Technologist.
+Computational Linguist (M.Sc. in Computational Linguistics & NLP), Quantitative Trading System Developer, AI Automation Specialist, and Educational Technologist.
+
+---
+
+### 🧠 Computational Linguistics & Persian LLM Research
+
+- 🗣️ **[persian-pragmatics-bench](https://github.com/abebr/persian-pragmatics-bench)**: Benchmark and extraction pipeline for evaluating pragmatic competence, indirect speech acts, sarcasm, and Ta'arof in Persian conversational AI.
+- 📐 **[persian-llm-token-bench](https://github.com/abebr/persian-llm-token-bench)**: Empirical analysis of Persian LLM tokenization efficiency, fertility rate ($t/w$), byte-fallback penalties, and the "ZWNJ Tax" across leading LLMs.
 
 ---
 
@@ -32,7 +39,7 @@ Quantitative Trading System Developer, Algorithmic Engineer, AI Automation Speci
 
 ### 🛠️ Tech Stack & Tools
 
-Python • PyQt6 • MQL5 • MQL4 • MetaTrader 5 • Claude Code • n8n • LangChain • JavaScript • TSETMC • Quantitative Finance
+Computational Linguistics • Persian NLP • LLM Evaluation • Tokenization • Python • Hugging Face • PyQt6 • MQL5 • MetaTrader 5 • Claude Code • n8n • LangChain
 
 ---
 
